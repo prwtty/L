@@ -1,2 +1,13 @@
-# ServerSMP-BOT
-A bot for all your needs! May it be moderation, info on things from your server, or even random pictures of ducks. We have it all!
+```
+  ____                           ____  __  __ ____            ____   ___ _____    ____ _     ___
+ / ___|  ___ _ ____   _____ _ __/ ___||  \/  |  _ \          | __ ) / _ \_   _|  / ___| |   |_ _|
+ \___ \ / _ \ '__\ \ / / _ \ '__\___ \| |\/| | |_) |  _____  |  _ \| | | || |   | |   | |    | |
+  ___) |  __/ |   \ V /  __/ |   ___) | |  | |  __/  |_____| | |_) | |_| || |   | |___| |___ | |
+ |____/ \___|_|    \_/ \___|_|  |____/|_|  |_|_|             |____/ \___/ |_|    \____|_____|___|
+
+```
+
+## Features
+
+### - Downloads the BOT.
+### - Helps you to create command.
