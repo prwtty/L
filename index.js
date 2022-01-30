@@ -40,7 +40,7 @@ async function setup() {
 	
 	download("github:Prince527Github/ServerSMP-BOT", `${__dirname}/ServerSMP - BOT`, async function(err) {
 		if (err) return downloadBOT.error({ text: "An error has accourd while download the BOT" });
-		downloadBOT.success({ text: "Finiched downloading" });
+		downloadBOT.success({ text: "Finished downloading" });
 
 		await sleep();
 
@@ -232,7 +232,7 @@ async function options() {
 		// <---------- Create file ---------->
         fs.appendFile(`${__dirname}/ServerSMP - BOT/commands/${catagory}/${name}.js`, content.join('\n'), async(err) => {
             if (err) return makeCMD.error({ text: "An error has accourd while create command" });
-			makeCMD.success({ text: "Finiched creating command" });
+			makeCMD.success({ text: "Finished creating command" });
         })
 
     }
