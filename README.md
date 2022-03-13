@@ -2,5 +2,5 @@
 
 ### Features
 
-### - Downloads the BOT.
-### - Helps you to create command.
+#### - Downloads the BOT.
+#### - Helps you to create command.
