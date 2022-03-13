@@ -1,4 +1,4 @@
-# ServerSMP - BOT CLI
+<h1 align="center">ServerSMP - BOT CLI<h1>
 
 ### Features
 
