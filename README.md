@@ -1,6 +1,6 @@
 <h1 align="center">ServerSMP - BOT CLI<h1>
 
-### Features
+#### Features
 
-#### - Downloads the BOT.
-#### - Helps you to create command.
+##### - Downloads the BOT.
+##### - Helps you to create command.
