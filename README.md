@@ -1,6 +1,6 @@
 # ServerSMP - BOT CLI
 
-## Features
+### Features
 
 ### - Downloads the BOT.
 ### - Helps you to create command.
