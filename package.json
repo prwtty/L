@@ -97,7 +97,7 @@
     "domexception": "^2.0.1",
     "dotenv": "^10.0.0",
     "ecc-jsbn": "^0.1.2",
-    "ejs": "^3.1.6",
+    "ejs": "^3.1.7",
     "end-of-stream": "^1.4.4",
     "escodegen": "^2.0.0",
     "esprima": "^4.0.1",
