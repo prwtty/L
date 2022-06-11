@@ -119,7 +119,7 @@
     "figlet": "^1.5.2",
     "file-type": "^9.0.0",
     "file-uri-to-path": "^1.0.0",
-    "follow-redirects": "^1.14.2",
+    "follow-redirects": "^1.14.8",
     "forever-agent": "^0.6.1",
     "form-data": "^4.0.0",
     "formidable": "^1.2.2",
