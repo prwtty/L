@@ -208,7 +208,7 @@
     "napi-build-utils": "^1.0.2",
     "node-abi": "^2.30.0",
     "node-addon-api": "^3.2.1",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "node-osu": "^2.2.1",
     "node-superfetch": "^0.2.3",
     "nopt": "^5.0.0",
