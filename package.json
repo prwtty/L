@@ -135,7 +135,7 @@
     "gifwrap": "^0.9.2",
     "github-from-package": "^0.0.0",
     "global": "^4.4.0",
-    "got": "^11.8.2",
+    "got": "^11.8.5",
     "graceful-fs": "^4.2.8",
     "har-schema": "^2.0.0",
     "har-validator": "^5.1.5",
